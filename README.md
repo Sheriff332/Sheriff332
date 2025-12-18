@@ -15,5 +15,6 @@ Sophomore College student<br>Into low level programming <br>Trying to learn rust
 ---
 [![](https://visitcount.itsvg.in/api?id=Sheriff332&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎯Currently Working on:
+[![Current Project Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Sheriff332/100-Exercises-to-Learn-Rust)
 
