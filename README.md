@@ -2,7 +2,7 @@
 # 💫 About Me:
 Sophomore College student<br>Into low level programming <br>Trying to learn rust
 
-# 🧑‍💻 Languages (more->less experience):
+# 🧑‍💻 Languages (more->less interest):
 ![My Skills](https://skillicons.dev/icons?i=rust,py,c)
 
 ## 🌐 Socials:
