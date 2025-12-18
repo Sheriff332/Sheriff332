@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![Sheriff's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sheriff332&show_icons=true&theme=radical)
-[![My Skills](https://skillicons.dev/icons?i=rust,py,c)](https://skillicons.dev)
+
+
+![My Skills](https://skillicons.dev/icons?i=rust,py,c)
