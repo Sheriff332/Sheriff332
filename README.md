@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Sheriff's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sheriff332&show_icons=true&theme=radical)
+![Sheriff's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sheriff332&show_icons=true&theme=transparent)
 
 
 ![My Skills](https://skillicons.dev/icons?i=rust,py,c)
