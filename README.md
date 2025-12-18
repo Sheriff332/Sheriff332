@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-Sophomore College student<br>Into low level programming <br>Trying to learn rust
+Sophomore CS student<br>I write Rust because segfaults hurt my feelings
 
 # 🧑‍💻 Languages (more->less interest):
 ![My Skills](https://skillicons.dev/icons?i=rust,py,c)
